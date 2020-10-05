@@ -31,7 +31,6 @@ ui5 serve
     * App.view.xml
   * Component.js
   * index.html
-  * index.js
   * manifest.json
 * README.md
 * package.json
