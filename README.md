@@ -20,14 +20,14 @@ ui5 serve
 
 # Structure of the repository
 
-* webapp
-  * controller
+* **webapp**
+  * **controller**
     * App.controller.js
-  * css
+  * **css**
     * stlye.css
-  * i18n
+  * **i18n**
     * i18n.properties
-  * view
+  * **view**
     * App.view.xml
   * Component.js
   * index.html
