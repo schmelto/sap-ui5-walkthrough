@@ -18,7 +18,7 @@ npm install
 ui5 serve
 ```
 
-# Structure of the repository
+## Structure of the repository
 
 * **webapp**
   * **controller**
