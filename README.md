@@ -17,21 +17,3 @@ npm install
 ```
 ui5 serve
 ```
-
-## Structure of the repository
-
-* **webapp**
-  * **controller**
-    * App.controller.js
-  * **css**
-    * stlye.css
-  * **i18n**
-    * i18n.properties
-  * **view**
-    * App.view.xml
-  * Component.js
-  * index.html
-  * manifest.json
-* README.md
-* package.json
-* ui5.yml
