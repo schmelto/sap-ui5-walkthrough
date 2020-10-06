@@ -17,3 +17,8 @@ npm install
 ```
 ui5 serve
 ```
+
+## Links
+
+* http://localhost:8080/test/mockServer.html
+* http://localhost:8080/index.html
