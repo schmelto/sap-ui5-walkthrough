@@ -22,3 +22,13 @@ ui5 serve
 
 * http://localhost:8080/test/mockServer.html
 * http://localhost:8080/index.html
+
+## More
+
+```
+npm install --global @ui5/cli
+
+npm init --yes
+
+ui5 init    
+```
